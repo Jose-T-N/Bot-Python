@@ -1,4 +1,3 @@
-#Ola *, estou enviando essa menssagem para avisar que o govarno acaba de depositar 1.000.000R$ na sua conta, * faça bom uso
 import pandas as pd;
 import os;
 from selenium import webdriver;
